@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "-": "^0.0.1",
-    "expo-cli": "^6.3.10"
+    "expo-cli": "^4.0.17",
+    "react-native-vision-camera": "^4.6.4"
   }
 }
